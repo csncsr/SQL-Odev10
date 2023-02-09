@@ -1,0 +1,2 @@
+# SQL-Odev10
+LEFT-RIGHT-FULL JOIN Yapısı
